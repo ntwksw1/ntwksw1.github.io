@@ -1,5 +1,5 @@
 # ntwksw1.github.io
-Nicole Wilson
+My name is Nicole Wilson.
 My email address is ntwkswams@gmail.com.
 ntwksw1 Github was created to use for my assignments.
 Repository was created in order to use for my Web, Pgm, & Db Foundation (2024FA.CTI.110.0010) course.
