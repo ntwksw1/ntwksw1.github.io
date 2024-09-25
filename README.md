@@ -26,6 +26,6 @@ I grew up playing handball with my father. It was fun to learn, great exercise, 
      > The University of Texas website is an excellent website providing explanations as to how the game is played, number of players, as well as providing videos.
    
 2. [Running Track](https://www.outperformsports.com)
-     > Outperform Sports offers information on how a runner should place the runner block, body position and gives examples of the necessary starting techniques. 
+     > The Outperform Sports website offers information on how a runner should place the runner block, body position and gives examples of the necessary starting techniques. 
 
 
