@@ -11,7 +11,6 @@ flowchart TD
     F --> G[Prepare and Pack]
     G --> H[Enjoy My Travel Vacation]
     H --> I[Return Home]
-
 ## Description of the Flowchart
 
 1. **Decide to Travel to Croatia**: The initial process deciding on Croatia and the cities to visit while at as my destination.
