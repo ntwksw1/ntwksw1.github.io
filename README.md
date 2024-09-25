@@ -9,7 +9,7 @@ Repository was created in order to use for my Web, Pgm, & Db Foundation (2024FA.
 
 After creating a Github account, I downloaded the Github software to my PC. There were options to select on the right side of the Github window so I selected "Clone Repository. The repository was cloned under my ntwksw1 account in addition to adding a ReadMe file.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # About Me
