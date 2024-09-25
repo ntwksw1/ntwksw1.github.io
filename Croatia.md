@@ -1,6 +1,6 @@
 # Planning a Trip to Croatia
 > The flowchart diagram type will walk through the steps from deciding the destinations, going on the trip, and returning home after enjoying my vacation.
-> 
+
 ```mermaid
 flowchart TD
     A[Decide to Travel to Croatia] --> B[Destination Research]
