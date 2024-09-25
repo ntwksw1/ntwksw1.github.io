@@ -10,11 +10,15 @@ Repository was created in order to use for my Web, Pgm, & Db Foundation (2024FA.
 After creating a Github account, I downloaded the Github software to my PC. There were options to select on the right side of the Github window so I selected "Clone Repository. The repository was cloned under my ntwksw1 account in addition to adding a ReadMe file.
 
 
+
+
 # About Me
+
 
 ## My Interests
 
 I grew up playing handball with my father. It was fun to learn, great exercise, and allowed us to spend quality time together. We also competed with different teams in the neighborhood and won several games. It was a very exciting sport through my early twenties as I loved the exhilaration of the sport. In addition to playing handball, another interest was running track in school. Being a sprinter allowed me to enhance my performance on the handball court as well.
+
 
 ## Websites I Recommend
 
