@@ -3,7 +3,6 @@
 
 ```mermaid
 flowchart TD
-title Planning a Trip to Croatia
     A[Decide to Travel to Croatia] --> B[Destination Research]
     B --> C[Find a Travel Agent] 
     C --> D[Book Flights and Accommodations]
