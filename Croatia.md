@@ -1,14 +1,14 @@
-sequenceDiagram
-title PLANNING A TRIP TO CROATIA
-participant Decide to Travel to Croatia
-participant Destination Research
-participant Find a Travel Agent
-participant Book Flights and Accommodations
-participant Obtain Itinerary
-participant Research Weather
-participant Prepare and Pack
-participant Enjoy My Travel Vacation
-participant Return Home
+sequenceDiagram  
+title PLANNING A TRIP TO CROATIA  
+participant Decide to Travel to Croatia  
+participant Destination Research  
+participant Find a Travel Agent  
+participant Book Flights and Accommodations  
+participant Obtain Itinerary  
+participant Research Weather  
+participant Prepare and Pack  
+participant Enjoy My Travel Vacation  
+participant Return Home  
 
 Decide to Travel to Croatia->>Destination Research: Initial process deciding on Croatia and the cities to visit while at as my destination
 Note over Decide to Travel to Croatia,Destination Research: Relationship shows the need to compile<br/>information after deciding to go to Croatia
