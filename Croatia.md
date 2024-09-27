@@ -27,4 +27,4 @@ Note over Prepare and Pack,Enjoy My Travel Vacation: Relationship solidifies the
 Enjoy My Travel Vacation->>Return Home: Experiencing attractions, food, people, culture then returning home
 Note over Enjoy My Travel Vacation,Return Home: Relationship signifies the end of the trip, me getting sad<br/> because I have to return home, and then traveling back
 
-%% The sequmce diagram type will walk through the steps from deciding the destinations, going on the trip, and returning home after enjoying my vacation.
+%% The sequence diagram type will walk through the steps from deciding the destinations, going on the trip, and returning home after enjoying my vacation.
